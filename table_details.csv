@@ -1,0 +1,4 @@
+Table,Description
+city,This table contains the names of the cities and there details like country code and District and Population.
+country,This table contains the Code of the country and name of the country and Continent its Regions and local_name and Capital and Head_Of_State.
+countrylanguage, This table contains tha Language of the country and the Countr_Code and Its percentage.
