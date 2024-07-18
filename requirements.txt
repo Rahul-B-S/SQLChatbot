@@ -1,0 +1,6 @@
+langchain_openai 
+langchain_community 
+langchain 
+pymysql 
+chromadb
+pandas

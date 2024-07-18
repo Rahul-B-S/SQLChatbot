@@ -124,4 +124,3 @@ while True:
     history.add_user_message(question)
     history.add_ai_message(response)
     print("Echo:",response)
-

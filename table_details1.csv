@@ -1,0 +1,4 @@
+Table,Description
+departments,This table contains the department_id and department_name in which department_id is primary key.
+employee,This table contains emp_id(employee id) emp_name(employee name) and salaryof the employee in which emp_id is the primary key.
+employee_department,This table contains the emp_id(employee id) and department_id in which both are primary and foreign key.
